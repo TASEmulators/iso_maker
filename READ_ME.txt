@@ -1,0 +1,2 @@
+- put the folder you want to turn into an ISO file into this folder
+- drag'n'drop that folder onto RUN_ME.bat
